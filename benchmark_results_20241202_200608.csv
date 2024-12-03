@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,categories,sql_time,vector_time,sql_top_match,sql_similarity,vector_top_match,vector_similarity
+GtfM73QC1y4_j8ghKPSt_w,Parrot Pete's,"Ice Cream & Frozen Yogurt, Food, Restaurants, Coffee & Tea, Desserts, Breakfast & Brunch",0.0764768123626709,0.03225898742675781,Cheeseburger In Paradise,0.7,Jersey Java and Tea,0.7508750336207602
+LXkm3ehWCSOxhoMcaStJxw,Albert's Family Restaurant,"Breakfast & Brunch, Restaurants",0.050927162170410156,0.018652915954589844,Waffle House,1.0,Steve's Cafe,0.7044752341591453
+1sXN7Oxteo5dP5nwIDyO4w,Mainland Grille,"Burgers, Venues & Event Spaces, Diners, Restaurants, Event Planning & Services, Nightlife, Active Life, Bars, American (Traditional), Golf",0.045864105224609375,0.017091989517211914,Craft Hall,0.7,Good Times Saloon,0.8121515642540242
+Xn9XOYqXa4IHdHnaZr9JAA,Bubba Tea & Cafe,"Juice Bars & Smoothies, Restaurants, Sandwiches, Food, Coffee & Tea",0.06707000732421875,0.019727230072021484,Craft Hall,0.7,Tsaocaa,0.6480055451393312
+PxEiXqMAzzvp8GFlb5EoLg,Grain Exchange,"Restaurants, American (New), Nightlife, American (Traditional), Pubs, Southern, Bars, Gastropubs",0.04797720909118652,0.0170590877532959,Craft Hall,0.7,Copia Restaurant & Wine Garden,0.7579320299009178
+Cb6tGAb2wcFYOg8WvT5X2w,The Ranch Scottish Highland Burgers,"Burgers, Restaurants",0.04487466812133789,0.016733169555664062,Boom Burgers,1.0,LeBrane's Creole Cuisine & Catering,0.7591239583753767
+3LnezhNbL_Arcs2ihIRL_Q,The Cheesesteak Factory,"Food, American (New), Restaurants, Pizza, Desserts, Fast Food",0.04596900939941406,0.016789913177490234,McDonald's,0.7,Romanos Pizza Express,0.8358747807853213
+k0InB-3WCg5DVaMXGpSjnQ,Namaste Indian Bistro,"Restaurants, Indian, Himalayan/Nepalese",0.0453338623046875,0.01757216453552246,Himalayan Kitchen,0.96,Shogun Smyrna,0.7111552741779333
+fNEQqFCwj9cLw-kqLyHuHQ,Richman's Ice Cream,"Food, Hot Dogs, American (Traditional), Ice Cream & Frozen Yogurt, Restaurants",0.04987788200378418,0.018192052841186523,Craft Hall,0.7,McDonald's,0.7861355670609858
+JaNaklSkA7F-MtOY524kmQ,No 1 China Chinese Restaurant,"Restaurants, Chinese",0.04974222183227539,0.017289161682128906,Guo Bin Chinese Restaurant,1.0,Panda Express,0.7819395195281806
+ttevmSPHu3dHUHFXBpVX9A,Pizza Hut,"Restaurants, Pizza, Italian, Fast Food, Chicken Wings",0.04608583450317383,0.01669788360595703,Pizza Hut,0.96,Feltonville Express Pizza,0.8121708371333786
+YOkrUUey0K8Zy_FWp9gB9g,Asahi Japanese Sushi,"Ice Cream & Frozen Yogurt, Restaurants, Sushi Bars, Japanese, Food",0.045789241790771484,0.016687870025634766,Craft Hall,0.7,Yomitori,0.8291018154414311
+RB5lcQlhSMbGVmWHklfq-A,Krystal's,"Arts & Entertainment, Restaurants, Fast Food",0.04233908653259277,0.017175674438476562,Craft Hall,0.7,Wienerschnitzel,0.6845333184162847
+4IcB3QyMEA85UTWFKh9O9A,Eat Mah Taco @ Pal's Lounge,"American (New), Food, Bars, Nightlife, Lounges, Restaurants",0.044719696044921875,0.016891002655029297,39 North Taproom & Grill,0.7,Taco Circus,0.7888050188546071
+aqqZT3wqqhIkuvVxNrnbLg,On The Border Mexican Grill & Cantina,"Restaurants, Tex-Mex, Mexican",0.04513120651245117,0.016700029373168945,Pancheros Mexican Grill,1.0,Acapulco Loco,0.7905130607807276
+KZ1FMeGyWQZfbtZPG31kWw,Firetruck Brewing,"Nightlife, Bars, Food, Breweries, Pubs, Restaurants, Cocktail Bars",0.04523181915283203,0.01670980453491211,China Dragon Restaurant,0.7,Mellow Mushroom,0.6612068419569812
+Mbkt43sUBsvXRxmrJrZFhQ,Circle 7 Ranch,"Restaurants, Tapas/Small Plates, Wraps, American (New), Burgers",0.047193050384521484,0.01691269874572754,Roast Coffeehouse and Wine Bar,0.7,Hablo Taco,0.8207314961930696
+SheKIt6Z_h-yzbkU8yjoPA,Tony's Donuts - McKelvey,"Bakeries, Restaurants, Food, Juice Bars & Smoothies, Coffee & Tea, Donuts",0.04337620735168457,0.016705036163330078,39 North Taproom & Grill,0.7,Donut King,0.7677683643811595
+nFSqTOt1LZSHQQKQsUZiKw,Stargate Diner,"Diners, Food, Breakfast & Brunch, Restaurants, Donuts, Desserts",0.043470144271850586,0.016959190368652344,Craft Hall,0.7,Good Stuff Eatery,0.6841776574903105
+xMRuClX5L8lg_nsiFgxIzQ,Connors Steak & Seafood,"Seafood, Nightlife, Restaurants, Steakhouses, Bars, Wine Bars",0.04863786697387695,0.01673412322998047,Roast Coffeehouse and Wine Bar,0.7,The Original French Market Restaurant and Bar,0.803797255588565
+xiCUpNdXDobxi28Waon5_w,FireGirl Mexican Kitchen,"Tex-Mex, Restaurants, Mexican",0.04350018501281738,0.01664280891418457,Uncle Julio's,1.0,Great American Steakburger,0.7209845760712131
+Abd2Md-wQLlUzViL5T3xDQ,Coffee Cup Cafe,"American (Traditional), Cafes, Restaurants, Breakfast & Brunch",0.043769121170043945,0.01668095588684082,First Watch,0.96,Ana's Corner Store,0.7934728501282277
+p7tSGmWpFV246aYhwODgBg,O Sushi Restaurant,"Sushi Bars, Restaurants, Japanese",0.04923391342163086,0.01691603660583496,Fujiyama Restaurant,1.0,E Sushi Odessa,0.8473995055078576
+ASJH8IDBdX_f5yOX0XEfYA,Sam's Pizza and Donair,"Restaurants, Pizza",0.04436898231506348,0.016710758209228516,HotBox Pizza,1.0,Argento's Pizza & Family Resturant,0.7994534969330062
+zAz_ROUOX0s6_Z7N3gqbHw,Black Horse Diner & Restaurant,"Restaurants, Diners, American (Traditional)",0.0463709831237793,0.016698837280273438,Little Anthony's Diner,0.96,Krab Kingz,0.7434576955771229
+AXfF-c7h7y4yqUC6zehbng,Five Guys Pizza,"Breakfast & Brunch, Restaurants, Chicken Wings, Food Delivery Services, Pizza, Food",0.04440784454345703,0.01664423942565918,McDonald's,0.7,Burger King,0.7283191298487512
+xGUAa3xa8KsmbolC3XboQg,Xtreme Tacos,"Mexican, Tacos, Food, Restaurants, Food Trucks, Tex-Mex",0.043598175048828125,0.016788005828857422,39 North Taproom & Grill,0.7,Tajin Mexican Grill,0.7921944620551361
+il_Ro8jwPlHresjw9EGmBg,Denny's,"American (Traditional), Restaurants, Diners, Breakfast & Brunch",0.043639183044433594,0.016616106033325195,The Silver Spoon Diner,0.96,Cappy's Breakfast Cafe,0.7446854323795111
+3c9TiufCFT2yXXj3R08Vwg,Snellgroves Restaurant,"Southern, American (New), Breakfast & Brunch, Restaurants",0.04264092445373535,0.016702890396118164,Café Amelie,0.92,Tamarind Tree Cafe,0.7845808606840707
+RGMPK0znWtlP6Sr9yHntsA,McDonald's,"Burgers, Food, Fast Food, Coffee & Tea, Restaurants",0.046417951583862305,0.017058849334716797,McDonald's,0.96,McDonald's,0.7587051370846952
+AyfqGVHcXA4CykhAI7CqbQ,The Perfect Circle Pizza Bakery,"American (Traditional), Bakeries, Restaurants, Pizza, Diners, Italian, Food",0.0437617301940918,0.016605854034423828,Roast Coffeehouse and Wine Bar,0.7,Genoa Pizza and Grill,0.7434941545738858
+9lleZz_RSjUTeZIJ--OMFA,Panera Bread,"Sandwiches, Soup, Food, Bakeries, Event Planning & Services, Breakfast & Brunch, Bagels, Salad, Restaurants, Caterers",0.04415011405944824,0.016711950302124023,Cheeseburger In Paradise,0.7,Paradise Bakery,0.7205303337402595
+piUZEndStsWNnRUwOPk8jA,King's Garden,"Chinese, Cantonese, Restaurants, Beer, Wine & Spirits, Food",0.04146265983581543,0.016663074493408203,Craft Hall,0.7,New Dragon Express,0.7533508980242912
+vI-2mPYOgfix5LcaqDOy_g,LongHorn Steakhouse,"Restaurants, American (Traditional), Steakhouses, Barbeque",0.043374061584472656,0.017583131790161133,Texas Roadhouse,0.96,LongHorn Steakhouse,0.8151119681992602
+yXtcHmOR4pQKpRjta7YEWQ,Awedaddys Bar & Grill,"Restaurants, American (Traditional), Seafood, Nightlife, Bars, Breakfast & Brunch",0.04259800910949707,0.016655921936035156,Roast Coffeehouse and Wine Bar,0.7,Portofino,0.7748739912880643
+S3QHy1sshUeZwXOYviVsXQ,Tre Lune,"Food, Italian, Restaurants",0.07257819175720215,0.01778101921081543,Ristorante Al Fresco,0.96,Main and Vine Bistro,0.7201391577513437
+xeRIeNUUAn0OtGpu4UXhvg,Trooper Diner,"Restaurants, Diners",0.044261932373046875,0.016663074493408203,Lansdowne Diner,1.0,Penn Diner,0.7471217585017031
+JRoY9Mx2LghIki2Uo1SOJA,The Wine Tap,"Bars, Wine Bars, Nightlife, Restaurants, Italian",0.04386615753173828,0.016695737838745117,39 North Taproom & Grill,0.7,Copia Restaurant & Wine Garden,0.7735776996831061
+VKBuUNM_9TGvle-Agq-bjg,Regrub,"Burgers, Restaurants",0.04794597625732422,0.016698837280273438,Beefcake Burgers,1.0,Red Kitchen and Bar,0.7244395829570173
+sqCUiy9gTgfROmjX6KOHXA,Rosa Pizza,"Restaurants, Pizza",0.04865002632141113,0.016975879669189453,Penllyn Pizza,1.0,Sangarlo's Pizza,0.8350979541505157
+oSnOGiL8JJ89tvCd7eL24w,Carla's Pizzeria,"Restaurants, Pizza",0.048950910568237305,0.01719212532043457,Venzo's Pizza,1.0,Joe Boccardi's Ristorante,0.7948352709903859
+R5E6esZU2qOv_pwiKtidrA,Halal Meat Market and Restaurant,"Halal, Restaurants, Meat Shops, Greek, Specialty Food, Middle Eastern, Food",0.04860091209411621,0.01663684844970703,39 North Taproom & Grill,0.7,America's Pie,0.7175516531662787
+GchRJYK1DDvyv45AMkvlMg,The Shop Pizzeria & Market,"Restaurants, Food, Tuscan, Convenience Stores, Italian, Pizza",0.045555830001831055,0.016754865646362305,Roast Coffeehouse and Wine Bar,0.7,Domino's Pizza,0.793867372369898
+cOxxg-HvlvWaGniuiVua_Q,Memphis Blues Barbeque House,"Restaurants, Whiskey Bars, American (Traditional), Southern, Bars, Event Planning & Services, Caterers, Barbeque, Nightlife",0.04524707794189453,0.016994237899780273,Roast Coffeehouse and Wine Bar,0.7,Judge Bean's BBQ,0.7255809634231579
+WtyG40CPjI1Uza7upMjoCA,Jersey Mike's Subs,"Sandwiches, Restaurants, Fast Food, Delis",0.04529094696044922,0.01667475700378418,Jersey Mike's Subs,1.0,Stacky's Sandwich Shop,0.6889105174212118
+plYv1QpBDnLJ8cOtvZvmfA,10th Street Diner,"Vegan, Vegetarian, Restaurants",0.04722881317138672,0.016704082489013672,Sprig & Vine,0.96,V-Trap Kitchen and Lounge,0.7803456390522073
+cLY7TxgdJCiGrD2C8DMEew,KFC,"Restaurants, Chicken Shop, Chicken Wings, Fast Food",0.04308509826660156,0.016756057739257812,KFC,1.0,Katie's Meat and Three,0.7163326313297385
+l1gRtJfoYe4LDFeKM9kWkQ,A Stone's Throw,"Gastropubs, Restaurants, Nightlife, American (New), Bars",0.04804086685180664,0.01677989959716797,Cheeseburger In Paradise,0.7,The Post,0.7596300078099966
+IZ6vx85mSdC2zp0STFzTIw,LUVI Restaurant,"Asian Fusion, Restaurants, Chinese, Japanese, Shanghainese, Pan Asian, Noodles",0.043905019760131836,0.016637086868286133,39 North Taproom & Grill,0.7,To-Yo Japanese Restaurant,0.7617133429730294
+I6zne2n2FZcXtgiK5ZPuxg,Cozy Corner,"Restaurants, Breakfast & Brunch",0.04571413993835449,0.01679205894470215,Maggie Mae's Sunrise Cafe,1.0,Trip's Diner,0.8023662677885586
+pb1nY1D4SftVWCBM1cADCA,West Place Chinese Restaurant,"Restaurants, Chinese",0.040309906005859375,0.01741313934326172,Guo Bin Chinese Restaurant,1.0,Hot Wok,0.8462107594264474
+LACylKxImNI29DKUQpWuHw,Burger King,"Restaurants, Burgers, Fast Food",0.04743599891662598,0.01672506332397461,Wendy's,1.0,Burger King,0.795203731014235
+1T9F7iLDFAYWJvif1RKneg,Saigon Restaurant,"Restaurants, Food, Vietnamese",0.045445919036865234,0.01663374900817871,Pho Bistreaux,0.96,King Wok,0.825809310328407
+sVWUxesVKseXGq78UwwajA,Steak ’n Shake,"Restaurants, American (New), Burgers, Steakhouses, American (Traditional), Diners, Breakfast & Brunch, Fast Food",0.04241585731506348,0.016653060913085938,Cheeseburger In Paradise,0.7,Landmark Americana,0.7735296892768714
+E34winG_5FmHo5VprevW1Q,Detour American Grille & Bar,"American (New), Nightlife, Bars, Restaurants",0.0470280647277832,0.019198894500732422,Hurricane Jack's Bar and Restaurant,0.96,Zaxby's Chicken Fingers & Buffalo Wings,0.6911055813901923
+vPcfJ3rm3NpdqVDod2WxLA,China Pearl,"Japanese, Chinese, Restaurants, Thai",0.0422358512878418,0.016922950744628906,Asian Yummy House,0.84,Taqueria Doña Maria,0.6709424453412327
+AUzVAJpsqxCpUz7ktn8QWQ,Cafe Coco,"Breakfast & Brunch, Cafes, Restaurants, Sandwiches, American (Traditional), Italian, Pizza",0.040189266204833984,0.017548084259033203,Roast Coffeehouse and Wine Bar,0.7,The Archive Music House & Southern Grill,0.7342028059475937
+h24yyMGLl7NdnhYujxBV2w,Guild Hall Brewing Company,"Gastropubs, Beer, Wine & Spirits, Food, Restaurants, Breweries",0.04280710220336914,0.016765832901000977,China Dragon Restaurant,0.7,Smiths Restaurant and Bar,0.7479803780264945
+QarBzRlp4EI0JQxjALqEuQ,Metropolis Restaurant,"Event Planning & Services, Mediterranean, Pizza, Venues & Event Spaces, American (Traditional), Restaurants, Seafood",0.04421401023864746,0.0167238712310791,China Dragon Restaurant,0.7,Makiman Sushi,0.720852889989246
+micimc15zJloGJaktAHBsQ,Nacho Mama's Mexican Grill,"Mexican, Restaurants",0.0411379337310791,0.0168459415435791,Mucho Burrito,1.0,El Gallo Giro,0.8219459440643955
+ut6fi2W2YaipNOqvi7e0jw,Upland Carmel Tap House,"Nightlife, Food, Bars, Breweries, Pizza, Brewpubs, Pubs, Restaurants",0.047020912170410156,0.016687870025634766,Roast Coffeehouse and Wine Bar,0.7,Rolynos Original Pizza,0.7726070379561933
+L0x5JdlOmcxFvyUgay6HLw,CDB'S Italian,"Restaurants, Italian, Pizza",0.04326200485229492,0.016706228256225586,Mezzogiorno,1.0,Pizza Hut,0.7164425502888722
+y_JZFlF-4fwSIn4RJ2vMGw,Italiano's,"Desserts, Restaurants, Italian, Food, Ice Cream & Frozen Yogurt",0.039797067642211914,0.016670942306518555,39 North Taproom & Grill,0.7,Frosty Boy Drive-In,0.5149621963501306
+7ELSYoA2CZx8UPSLrvhOXg,C & C Country Maid,"Restaurants, Delis",0.04185605049133301,0.016640186309814453,Wawa Food Markets,1.0,Ralph's Market,0.721482887665862
+BZMlTj56Y_rTc_iMSOs-Hw,McShea's Restaurant & Bar,"Restaurants, Nightlife, American (New), Bars, Pubs, Irish",0.046540021896362305,0.01667475700378418,Roast Coffeehouse and Wine Bar,0.7,Ryan Christopher,0.7700187331359918
+fD4bniuVxxG-uIygBbf5iA,Double Decker Pizza,"American (Traditional), Pizza, Restaurants",0.042711734771728516,0.016646146774291992,Tony Roni's,1.0,Cuzino's Pizza & Pasta,0.8039003967076453
+85xgFRYB2QFvRNf3pCK6hg,State & Lemp,"American (New), Burgers, Restaurants",0.04364895820617676,0.023034095764160156,Good Day Café,0.92,Central Park,0.7220075296159084
+uaipZDBSvzDzUUlazpyGCg,Minato Noodles,"Japanese, Korean, Restaurants, Soup, Noodles, Asian Fusion, Ramen",0.04595184326171875,0.01670980453491211,Roast Coffeehouse and Wine Bar,0.7,Chew Doin Fried Chicken & Ramen,0.7133073506698601
+JpjoRpJ1k_SlWk7wXaLHJQ,Smokehouse On Shelby,"Smokehouse, Barbeque, Food, Restaurants, Burgers, Local Flavor, Sandwiches",0.04600119590759277,0.016657114028930664,Craft Hall,0.7,Ellington's,0.7892068531020094
+agXY9uFaWAhIzwWsRZB6gQ,Flagstone Pantry,"Specialty Food, Food, Sandwiches, Soup, Restaurants, Salad",0.045773983001708984,0.01670098304748535,39 North Taproom & Grill,0.7,Numchok Wilai,0.7256547861386802
+NKNgAfsVH_-ZA4FQ8yI-4Q,Paul's Landing,"Restaurants, Seafood, Mediterranean",0.04305124282836914,0.01667308807373047,Craft Hall,0.7,Nephew's Ristorante,0.6962234739990911
+oS70RVt-RegY3Ts0hLASQA,Saap Lao Thai Cuisine,"Restaurants, Thai, Laotian",0.041199684143066406,0.016628026962280273,Syphay Restaurant,1.0,Thai 2 Go,0.87358329419791
+nrt_kZKsirgTFB3JY_bKpQ,Pat's Bar & Grill,"Irish, Nightlife, Sandwiches, Bars, Restaurants, American (Traditional), Pubs",0.04145216941833496,0.016710996627807617,Craft Hall,0.7,Tankie's Tavern,0.7997948885025149
+quCIR7UcrMmpaKXYwet8pw,Convivio Italian Artisan Cuisine,"Restaurants, Pizza, Salad, Italian",0.04327726364135742,0.016577959060668945,Circo Italian Kitchen & Pizzeria,1.0,Franco Ristorante,0.7975783355300746
+QExWORi8kxwQGdXlFXRc-Q,Frank's Diner,"American (Traditional), Breakfast & Brunch, Restaurants, Diners",0.04037308692932129,0.016623258590698242,Our Place,1.0,The StoneRose Restaurant,0.7491171659091513
+yHUWxfunpzerdiehxNFI8g,Cafe Caribe,"Restaurants, Sandwiches, Breakfast & Brunch, Cuban, Cafes",0.04161477088928223,0.01671910285949707,Roast Coffeehouse and Wine Bar,0.7,Express Cafe,0.7940242158821083
+YEJh9kUueYsB_OSY11HXUA,The Spaniard,"Latin American, American (Traditional), Restaurants",0.04278111457824707,0.01676797866821289,Roast Coffeehouse and Wine Bar,0.7,Mango,0.6439924815886592
+jfRq1KtjEGyPoMo9HZVw2Q,The Set,"American (Traditional), Restaurants, Bars, Cocktail Bars, Nightlife, American (New), Sandwiches",0.04069709777832031,0.01683783531188965,Craft Hall,0.7,Capital Pizza & Steakhouse,0.7779433395930179
+u5ey9qM96IDa08ob1PI5OA,Bavaro's Pizza Napoletana and Pastaria,"Restaurants, Pizza, Italian",0.042768239974975586,0.016757965087890625,Little Caesar's Pizza,1.0,Romanos Pizza Express,0.8282591947394373
+LwVhbEy_SHse2G_P2JXMyg,Mo' Bettahs Hawaiian Style Food,"Steakhouses, Restaurants, Hawaiian",0.040155887603759766,0.016624927520751953,Roast Coffeehouse and Wine Bar,0.7,The Shak Hawaiian Cafe,0.8070087192354164
+tJwHRvOF8QlHy4Eu6FKfYQ,Tito's Latin Kitchen,"Food, Food Trucks, Restaurants, Caribbean, Puerto Rican",0.04489398002624512,0.016634702682495117,39 North Taproom & Grill,0.7,Ybor Grille,0.7870683581666148
+EMp87GsYkVdwHftE7Ar2_w,Cosmic Café and Ciderhouse,"Bars, Nightlife, Cafes, Restaurants, Breakfast & Brunch, Beer Bar",0.04199504852294922,0.016653060913085938,Roast Coffeehouse and Wine Bar,0.7,Quaker Steak & Lube,0.6961792914920837
+Iszshjj6I_02Okm5sPpsnw,Wolfies Grill -- Geist,"Nightlife, Burgers, Bars, Sports Bars, American (Traditional), Restaurants",0.041008949279785156,0.016765832901000977,Craft Hall,0.7,Hablo Taco,0.7476376969162244
+g3VTofBULAB3bld7IzmJMg,Simon's Kosher,"Grocery, Food, Restaurants, Kosher, Butcher",0.040026187896728516,0.01666092872619629,39 North Taproom & Grill,0.7,The Old Spaghetti Factory,0.5889507952646128
+XsW_8i0G0pvkw9q2EUsqCA,Ranoush,"Specialty Food, Middle Eastern, Restaurants, Ethnic Food, Food",0.04126095771789551,0.018793821334838867,Roast Coffeehouse and Wine Bar,0.7,Pita Pocket Falafel & Grille,0.6916984091164627
+0PDe8TxXHoROxpu-jH8e6A,Pennsylvania 6,"Restaurants, American (New), Live/Raw Food",0.04124093055725098,0.017132043838500977,Roast Coffeehouse and Wine Bar,0.7,Three Monkeys Cafe,0.7648178514512526
+dpGKdWz6y7ymYg3tpiPNDQ,Taco Bell,"Restaurants, Tacos, Tex-Mex, Breakfast & Brunch, Mexican, Fast Food",0.04471707344055176,0.016767024993896484,McDonald's,0.7,Subway,0.6691712535415633
+KBG3GV4WHU-iLLSWiapbJw,Calypso Cafe,"Vegetarian, Sandwiches, Caribbean, Restaurants, Salad",0.04128885269165039,0.016694068908691406,Roast Coffeehouse and Wine Bar,0.7,Calypso Cafe,0.8244045062788438
+i2yCrMQx5soH0jMFG32vxQ,KFC,"Restaurants, Chicken Wings, Chicken Shop, Fast Food",0.04180407524108887,0.016661882400512695,KFC,0.92,KFC,0.7545834476252314
+hFa7UxRZgJDQJ3UBhQsu9A,Piccolina Toscana,"Restaurants, Italian, Nightlife, Bars",0.040464162826538086,0.016769886016845703,Craft Hall,0.7,Bazille,0.7554748601070997
+dbTFIBNqnPgqfCksCkXaqQ,Olivia's Bagel Bash,"Food, Restaurants, Bagels",0.04292702674865723,0.016613006591796875,The Great American Bagel Bakery,1.0,Fill A Bagel & Breads,0.8234498010009778
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,"Food, Donuts, Burgers, American (Traditional), Coffee & Tea, Restaurants",0.04286384582519531,0.016694068908691406,39 North Taproom & Grill,0.7,Federal Donuts,0.7139212190344572
+KbiUniTeZWt9kOWz3OghDQ,Baja Bakery & Deli,"Food, Bakeries, Delis, Restaurants",0.04221510887145996,0.016738176345825195,The Mad Griddle ,0.7,Bab Café - Reno,0.6923011954010257
+iNWaK5a4asBB-f6q_T_Raw,Papa John's Pizza,"Pizza, Restaurants",0.04027295112609863,0.016854047775268555,Imo's Pizza,1.0,Papa John's Pizza,0.8239481449127256
+9xLxbTsG2a-K1qkaU8M1aw,Red Robin Gourmet Burgers and Brews,"Restaurants, Burgers, American (Traditional)",0.04126310348510742,0.0167388916015625,Red Robin Gourmet Burgers and Brews,1.0,Guy Fieri's Philly Kitchen + Bar,0.8477588185617173
+uamAUnL4ox5uXvjquY9wLg,Applebee's Grill + Bar,"Bars, Nightlife, American (Traditional), Restaurants, Chicken Wings, Burgers, Steakhouses, Sports Bars",0.04001784324645996,0.017468929290771484,Cheeseburger In Paradise,0.7,Jerry Bob's,0.7721481323242188
+vPK_MN51evy0007W8NeJ6w,Domino's Pizza,"Chicken Wings, Pizza, Sandwiches, Restaurants",0.04234194755554199,0.017181873321533203,Domino's Pizza,1.0,Domino's Pizza,0.80402504229695
+1AMdlp3799xhKsEvce9_aA,Helen’s Hot Chicken,"Chicken Shop, Restaurants",0.04196524620056152,0.016699790954589844,BokBox,1.0,Uncle C's New Orleans Style Fried Chicken,0.7796741956375386
+WZgfBnIvBZ2B7OWkyiOPUA,Raley's,"Food, Grocery, Delis, Restaurants, Beer, Wine & Spirits",0.0432591438293457,0.016647815704345703,China Dragon Restaurant,0.7,Sak'n Save Food Store,0.6652364333044423
+EdW9vZanqh-fS8trtecDYg,Burger King,"Restaurants, Burgers, Fast Food",0.04250597953796387,0.016709327697753906,Burger King,1.0,Hardee's,0.7783112857712848
