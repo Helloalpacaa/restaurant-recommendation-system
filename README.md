@@ -20,7 +20,7 @@ pip install pandas numpy tqdm psycopg2-binary sentence-transformers
 ## Data Preparation
 
 ### Data Source
-1. Download the Yelp Academic Dataset from Yelp Dataset
+1. Download the Yelp Academic Dataset from Yelp Dataset https://www.yelp.com/dataset
 2. Required files:
      - yelp_academic_dataset_business.json
      - yelp_academic_dataset_review.json
