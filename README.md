@@ -68,7 +68,7 @@ CREATE TABLE restaurant_embeddings (
 ```bash
 python load_yelp_data.py
 ```
-Shows SQL vs vector-based recommendations for a sample restaurant with execution times.
+
 
 ## Running the Project
 
